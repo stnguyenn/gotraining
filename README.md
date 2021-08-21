@@ -6,21 +6,21 @@ It aims to provide _frictionless_ application development experience.
 
 ## Installation
 
-The side benefit of understanding the installation steps is become more familiar with your local filesystem.
+The side benefit of understanding the installation steps is to become more familiar with your local filesystem.
 
 - https://golang.org/doc/install
 - https://golang.org/doc/tutorial/getting-started
 
 ## Basic Syntax
 
-It is helpful to be familiar with the following samples, not to dwell too long in it, but rather keep revisiting as needed.
+It is helpful to be aware of the following samples, not to dwell too long in it, but rather keep revisiting as needed.
 
 - https://tour.golang.org/welcome/1
 - https://gobyexample.com
 
 ## Basic Project Structure
 
-We (should) use someone else's code more often than writing our own. Go-module structure is the industry standard for code-sharing. 
+We (should) use someone else's code more often than writing our own. Go-module structure is the industry standard for Go code-sharing. 
 
 - https://golang.org/doc/tutorial/create-module
 - https://golang.org/doc/tutorial/call-module-code
