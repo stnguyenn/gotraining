@@ -1,5 +1,7 @@
 # gotraining
 
+This guide assumes an audience with no prior experience in software development. It seeks to leverage Go ecosystem for learning process.
+
 Go is a computer language that focuses on simplicity and efficient toolings. 
 
 It aims to provide _frictionless_ application development experience.
