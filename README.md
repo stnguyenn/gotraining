@@ -2,7 +2,9 @@
 
 This guide assumes an audience with no prior experience in software development. It seeks to leverage Go ecosystem for learning process.
 
-Go is a computer language that focuses on simplicity and efficient toolings. 
+## What is Go
+
+Go is a computer language that focuses on simplicity and efficient toolings.
 
 It aims to provide _frictionless_ application development experience.
 
@@ -22,10 +24,22 @@ It is helpful to be aware of the following samples, not to dwell too long in it,
 
 ## Basic Project Structure
 
-We (should) use someone else's code more often than writing our own. Go-module structure is the industry standard for Go code-sharing. 
+We (should) use someone else's code more often than writing our own. Go-module structure is the industry standard for Go code-sharing.
 
 - https://golang.org/doc/tutorial/create-module
 - https://golang.org/doc/tutorial/call-module-code
+
+## Essential Unix/Linux Commands
+
+It is critical that developers know their way around the command line, or
+Terminal, as it is sometimes called. The following links aim to guide the
+reader to gain an essential understanding of core commands.
+
+- https://www.unixtutorial.org/basic-unix-commands
+
+### Piping Unix Commands Together (leveraging stdin and stdout)
+
+- https://www.geeksforgeeks.org/piping-in-unix-or-linux/
 
 ## CLI (command line interface)
 
@@ -36,7 +50,7 @@ Command-line-interface is the most basic (and common) form of application. Cobra
 
 ## Git
 
-Successful software development is rarely accomplished alone. GIT is an important SVC tool (yet another CLI :) to help facilitate development process for multiple individuals.  
+Successful software development is rarely accomplished alone. GIT is an important SVC tool (yet another CLI :) to help facilitate development process for multiple individuals.
 
 - https://github.com/git-guides/
 
